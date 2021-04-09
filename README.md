@@ -26,5 +26,3 @@ python ssr-python3.py
 ```
 
 然后会再目录下生成ssr文件
-
-演示视频：https://www.youtube.com/watch?v=HriCtJIFuLk
